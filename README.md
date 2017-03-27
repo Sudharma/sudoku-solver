@@ -26,7 +26,7 @@ From the input recieved from the end user which is series of 81 numbers(comma se
 # Exception Cases
 
 1. If the input length is incorrect , i,e not equal to 81 (NxN) then its considered improper Board.
-2. If the input length is correct but the values given are not valid Sudoku board then ERROR is shown.
+2. If the input length is correct but the values given are not valid Sudoku board then `cannot be complete` ERROR is shown.
 3. More the number of x in the input will also solve the problem.
 
 # Download and Execution.
